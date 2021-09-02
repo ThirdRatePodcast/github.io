@@ -53,16 +53,16 @@
 		
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:title" content="Contact Us | Third-Rate-Podcast! for the Fourth Rate Duelist">
-	<meta name="twitter:image" content="https://thirdratepodcast.github.io/resources/yugikaiba5.jpg">
+	<meta name="twitter:image" content="https://thirdratepodcast.github.io/resources/yugikaiba6.jpg">
 	<meta name="twitter:url" content="https://thirdratepodcast.github.io/contact-form/index.php">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Third-Rate-Podcast! for the Fourth Rate Duelist">
 	<meta property="og:title" content="Contact Us | Third-Rate-Podcast! for the Fourth Rate Duelist">
-	<meta property="og:image" content="https://thirdratepodcast.github.io/resources/yugikaiba5.jpg">
+	<meta property="og:image" content="https://thirdratepodcast.github.io/resources/yugikaiba6.jpg">
 	<meta property="og:url" content="https://thirdratepodcast.github.io/contact-form/index.php">
 	
 	<title>Contact Us | Third-Rate-Podcast! for the Fourth Rate Duelist</title>
-	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Engineer/consolidated-1.css?rwcache=652237466" />
+	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Engineer/consolidated-1.css?rwcache=652261473" />
 		
 	    
 </head>
@@ -152,7 +152,7 @@
 		</div>
 	</footer>
 
-	<script type="text/javascript" src="../rw_common/themes/Engineer/js/main.js?rwcache=652237466"></script>
+	<script type="text/javascript" src="../rw_common/themes/Engineer/js/main.js?rwcache=652261473"></script>
 </body>
 
 </html>
