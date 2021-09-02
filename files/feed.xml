@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+<title>My RSS Feed</title><link>http://index.html</link><description>Hot News&#x21;</description><dc:language>en</dc:language><language>en</language><dc:date>2021-09-01T14:39:05-07:00</dc:date><admin:generatorAgent rdf:resource="http://www.realmacsoftware.com/" />
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+<lastBuildDate>Wed, 1 Sep 2021 13:06:57 -0700</lastBuildDate><item><title>TRPFRD Episode 1: New Dark Magician Support</title><category>Podcasts</category><category>New Product Support News</category><dc:date>2021-09-01T14:39:05-07:00</dc:date><link>http://files/cdef0e2883ebdf8bbaaae9b925a49799-0.html#unique-entry-id-0</link><guid isPermaLink="true">http://files/cdef0e2883ebdf8bbaaae9b925a49799-0.html#unique-entry-id-0</guid><content:encoded><![CDATA[<p style="text-align:center;"><img class="imageStyle" alt="TRPFRDLogo" src="http://files/trpfrdlogo.png" width="452" height="452" /><br /><br /><span style="font:13px Trebuchet, Tahoma, sans-serif; color:#161617;">In this episode we discuss some of the latest cards that have fallen or risen in price over the last few weeks with our market watch segment, taking a look at cards ranging from Nightmare Corrupter Iblee to Dark Magician of Chaos, we discuss the new Dark Magician support that recently got released in the Battle of Chaos Box, looking at new combos, strategies, and where the deck falls in terms of competitiveness in the current format. We take a deep dive in on whether Red-Eyes Dark Dragoon is starting to pose a problem in the current TCG and who's really the problem throughout the engine, while also discussing some of the top decks and ones to watch going into the September-October format and which decks among those are best suited for the upcoming meta.</span></p>]]></content:encoded></item></channel>
+</rss>
