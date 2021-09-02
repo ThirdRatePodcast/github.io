@@ -53,14 +53,16 @@
 		
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:title" content="Contact Us | Third-Rate-Podcast! for the Fourth Rate Duelist">
-	<meta name="twitter:image" content="http://resources/yugikaiba5.jpg">
+	<meta name="twitter:image" content="https://thirdratepodcast.github.io/resources/yugikaiba5.jpg">
+	<meta name="twitter:url" content="https://thirdratepodcast.github.io/contact-form/index.php">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Third-Rate-Podcast! for the Fourth Rate Duelist">
 	<meta property="og:title" content="Contact Us | Third-Rate-Podcast! for the Fourth Rate Duelist">
-	<meta property="og:image" content="http://resources/yugikaiba5.jpg">
+	<meta property="og:image" content="https://thirdratepodcast.github.io/resources/yugikaiba5.jpg">
+	<meta property="og:url" content="https://thirdratepodcast.github.io/contact-form/index.php">
 	
 	<title>Contact Us | Third-Rate-Podcast! for the Fourth Rate Duelist</title>
-	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Engineer/consolidated-1.css?rwcache=652235255" />
+	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Engineer/consolidated-1.css?rwcache=652237385" />
 		
 	    
 </head>
@@ -70,22 +72,22 @@
 <body>
 	<div class="hero" id="hero">
 		<nav class="navbar navbar-expand-lg">
-			<a class="navbar-brand" href="http://"> <span class="navbar-title">Third-Rate-Podcast! for the Fourth Rate Duelist</span></a>
+			<a class="navbar-brand" href="https://thirdratepodcast.github.io/"> <span class="navbar-title"></span></a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
 				aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="navbarNav">
-				<ul class="navbar-nav ml-auto"><li class="nav-item"><a href="../" rel="" class="nav-link">Home</a></li><li class="nav-item active"><a href="./" rel="" class="nav-link">Contact Us</a></li></ul>
+				<ul class="navbar-nav ml-auto"><li class="nav-item"><a href="../" rel="" class="nav-link">Home</a></li><li class="nav-item"><a href="../about-us/" rel="" class="nav-link">About Us</a></li><li class="nav-item active"><a href="./" rel="" class="nav-link">Contact Us</a></li></ul>
 			</div>
 		</nav>
 
 		<div class="hero-content container d-flex align-items-center" id="hero">
 			<div class="">
-				<h1 class="hero-title">Third-Rate-Podcast! for the Fourth Rate Duelist</h1>
+				<h1 class="hero-title"></h1>
 				<p class="hero-slogan display-4"></p>
 			</div>
-			<div class="hero-background" title="Third-Rate-Podcast! for the Fourth Rate Duelist"></div>
+			<div class="hero-background" title=""></div>
 			<div class="hero-overlay"></div>
 		</div>
 
@@ -95,7 +97,7 @@
         <section class="main" style="position: relative;">
             <div class="container">
                 <div class="row">
-                    <div class="col-sm-12 main">
+                    <div class="col-sm-8 main">
                         
 <div class="message-text"><?php echo $_SESSION['formMessage']; unset($_SESSION['formMessage']); ?></div><br />
 
@@ -143,14 +145,14 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-12 footer-content">
-					<ul class="navbar-nav ml-auto"><li class="nav-item"><a href="../" rel="" class="nav-link">Home</a></li><li class="nav-item active"><a href="./" rel="" class="nav-link">Contact Us</a></li></ul>
+					<ul class="navbar-nav ml-auto"><li class="nav-item"><a href="../" rel="" class="nav-link">Home</a></li><li class="nav-item"><a href="../about-us/" rel="" class="nav-link">About Us</a></li><li class="nav-item active"><a href="./" rel="" class="nav-link">Contact Us</a></li></ul>
 					&copy; 2021 TRPFRD <a href="#" id="rw_email_contact">Contact Me</a><script type="text/javascript">var _rwObsfuscatedHref0 = "mai";var _rwObsfuscatedHref1 = "lto";var _rwObsfuscatedHref2 = ":ae";var _rwObsfuscatedHref3 = "mor";var _rwObsfuscatedHref4 = "row";var _rwObsfuscatedHref5 = "@me";var _rwObsfuscatedHref6 = ".co";var _rwObsfuscatedHref7 = "m";var _rwObsfuscatedHref = _rwObsfuscatedHref0+_rwObsfuscatedHref1+_rwObsfuscatedHref2+_rwObsfuscatedHref3+_rwObsfuscatedHref4+_rwObsfuscatedHref5+_rwObsfuscatedHref6+_rwObsfuscatedHref7; document.getElementById("rw_email_contact").href = _rwObsfuscatedHref;</script>
 				</div>
 			</div>
 		</div>
 	</footer>
 
-	<script type="text/javascript" src="../rw_common/themes/Engineer/js/main.js?rwcache=652235255"></script>
+	<script type="text/javascript" src="../rw_common/themes/Engineer/js/main.js?rwcache=652237385"></script>
 </body>
 
 </html>
