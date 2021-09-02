@@ -62,7 +62,7 @@
 	<meta property="og:url" content="https://thirdratepodcast.github.io/contact-form/index.php">
 	
 	<title>Contact Us | Third-Rate-Podcast! for the Fourth Rate Duelist</title>
-	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Engineer/consolidated-1.css?rwcache=652261473" />
+	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Engineer/consolidated-1.css?rwcache=652308940" />
 		
 	    
 </head>
@@ -78,7 +78,7 @@
 				<span class="navbar-toggler-icon"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="navbarNav">
-				<ul class="navbar-nav ml-auto"><li class="nav-item"><a href="../" rel="" class="nav-link">Home</a></li><li class="nav-item"><a href="../about-us/" rel="" class="nav-link">About Us</a></li><li class="nav-item active"><a href="./" rel="" class="nav-link">Contact Us</a></li></ul>
+				<ul class="navbar-nav ml-auto"><li class="nav-item"><a href="../" rel="" class="nav-link">Announcements</a></li><li class="nav-item"><a href="../about-us/" rel="" class="nav-link">About Us</a></li><li class="nav-item"><a href="../styled-2/" rel="" class="nav-link">Forum</a></li><li class="nav-item"><a href="../styled-3/" rel="" class="nav-link">Videos</a></li><li class="nav-item"><a href="../styled/" rel="" class="nav-link">References</a></li><li class="nav-item active"><a href="./" rel="" class="nav-link">Contact Us</a></li></ul>
 			</div>
 		</nav>
 
@@ -134,7 +134,7 @@
 
                     <div class="col-sm-12 sidebar">
                         <h2></h2>
-                         
+                        <span style="color:#80003F;"><a href="https://www.tcgplayer.com" target="_blank">TCGPlayer</a></span><span style="color:#80003F;"> - </span><span style="color:#80003F;"><a href="https://podcasts.apple.com/us/podcast/during-the-end-phase-a-yu-gi-oh-podcast/id1510027046" target="_blank">During The End Phase Podcast</a></span><span style="color:#80003F;"> - </span><span style="color:#80003F;"><a href="https://podcasts.apple.com/us/podcast/x-2-drop-a-yu-gi-oh-discussion-podcast/id1455813121" target="_blank">X2 Drop Podcast</a></span><span style="color:#80003F;"> - </span><span style="color:#80003F;"><a href="https://www.facebook.com/TCGplayer/" target="_blank">TCG Player FB Page</a></span><span style="color:#80003F;"> - </span><span style="color:#80003F;"><a href="https://www.reddit.com/r/yugioh/" target="_blank">Yu-Gi-Oh! Reddit</a></span><span style="color:#80003F;"><br /></span><br /><a href="https://podcasts.apple.com/us/podcast/the-third-rate-podcast-for-the-fourth-rate-duelist/id1584006366" target="_blank"><img class="imageStyle" alt="Podcasts_(iOS).svg" src="files/podcasts_0028ios0029.svg.png" width="62" height="62" /></a><a href="https://open.spotify.com/show/1kVoe6hgmux2u2P9nkAJGL?si=bNR8B1ZDSYihGrUm9omKCQ&dl_branch=1" target="_blank"><img class="imageStyle" alt="bdab70ac-eaa9-4d8e-8e81-61923864ff7c" src="files/bdab70ac-eaa9-4d8e-8e81-61923864ff7c.png" width="65" height="65" /></a><img class="imageStyle" alt="Stitcher-Logo" src="files/stitcher-logo.png" width="58" height="58" /> <img class="imageStyle" alt="3689112" src="files/3689112.png" width="62" height="62" /> <br /><br />s 
                     </div>
                 </div>
             </div>
@@ -145,14 +145,14 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-12 footer-content">
-					<ul class="navbar-nav ml-auto"><li class="nav-item"><a href="../" rel="" class="nav-link">Home</a></li><li class="nav-item"><a href="../about-us/" rel="" class="nav-link">About Us</a></li><li class="nav-item active"><a href="./" rel="" class="nav-link">Contact Us</a></li></ul>
-					&copy; 2021 TRPFRD <a href="#" id="rw_email_contact">Contact Me</a><script type="text/javascript">var _rwObsfuscatedHref0 = "mai";var _rwObsfuscatedHref1 = "lto";var _rwObsfuscatedHref2 = ":ae";var _rwObsfuscatedHref3 = "mor";var _rwObsfuscatedHref4 = "row";var _rwObsfuscatedHref5 = "@me";var _rwObsfuscatedHref6 = ".co";var _rwObsfuscatedHref7 = "m";var _rwObsfuscatedHref = _rwObsfuscatedHref0+_rwObsfuscatedHref1+_rwObsfuscatedHref2+_rwObsfuscatedHref3+_rwObsfuscatedHref4+_rwObsfuscatedHref5+_rwObsfuscatedHref6+_rwObsfuscatedHref7; document.getElementById("rw_email_contact").href = _rwObsfuscatedHref;</script>
+					<ul class="navbar-nav ml-auto"><li class="nav-item"><a href="../" rel="" class="nav-link">Announcements</a></li><li class="nav-item"><a href="../about-us/" rel="" class="nav-link">About Us</a></li><li class="nav-item"><a href="../styled-2/" rel="" class="nav-link">Forum</a></li><li class="nav-item"><a href="../styled-3/" rel="" class="nav-link">Videos</a></li><li class="nav-item"><a href="../styled/" rel="" class="nav-link">References</a></li><li class="nav-item active"><a href="./" rel="" class="nav-link">Contact Us</a></li></ul>
+					&copy; 2021 TRPFRD <a href="#" id="rw_email_contact">Contact Us</a><script type="text/javascript">var _rwObsfuscatedHref0 = "mai";var _rwObsfuscatedHref1 = "lto";var _rwObsfuscatedHref2 = ":ae";var _rwObsfuscatedHref3 = "mor";var _rwObsfuscatedHref4 = "row";var _rwObsfuscatedHref5 = "@me";var _rwObsfuscatedHref6 = ".co";var _rwObsfuscatedHref7 = "m";var _rwObsfuscatedHref = _rwObsfuscatedHref0+_rwObsfuscatedHref1+_rwObsfuscatedHref2+_rwObsfuscatedHref3+_rwObsfuscatedHref4+_rwObsfuscatedHref5+_rwObsfuscatedHref6+_rwObsfuscatedHref7; document.getElementById("rw_email_contact").href = _rwObsfuscatedHref;</script>
 				</div>
 			</div>
 		</div>
 	</footer>
 
-	<script type="text/javascript" src="../rw_common/themes/Engineer/js/main.js?rwcache=652261473"></script>
+	<script type="text/javascript" src="../rw_common/themes/Engineer/js/main.js?rwcache=652308940"></script>
 </body>
 
 </html>
